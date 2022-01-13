@@ -1,0 +1,76 @@
+
+.box1{
+    color:rebeccapurple;
+background-color:cornsilk;
+width:80%;
+margin:auto;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 25px;
+border:dotted gold 5px;
+margin-top: 25px;
+margin-left: 150px;
+letter-spacing: 0.3em;
+}
+.box1 h1{
+    text-align: center;
+    color:midnightblue;
+    letter-spacing: 0.5em;
+}
+.box2{
+background-color: blanchedalmond;
+width:80%;
+margin:auto;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 25px;
+border:khaki dashed 5px;
+margin-top: 16px;
+margin-left: 150px;
+letter-spacing: 0.3em;
+line-height: 1.7em;
+
+}
+.box2 h1{
+    text-align: center;
+    color:midnightblue;
+    letter-spacing: 0.5em;
+}
+.box3{
+background-color: antiquewhite;
+width:80%;
+margin:auto;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 25px; 
+border:rgb(185, 170, 35) dotted 5px;
+margin-top: 16px;
+margin-left: 150px;
+letter-spacing: 0.3em;
+}
+.box3 h1{
+    text-align: center;
+    color:midnightblue;
+    letter-spacing: 0.5em;
+}
+.box3 p{
+    text-indent: 2.6em;
+    color:brown
+}
+.box4{
+background-color:blanchedalmond;
+width:80%;
+margin:auto;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 25px;
+border:rgb(221, 204, 47) double 5px;
+margin-top: 16px;
+margin-left: 150px;
+letter-spacing: 0.3em;
+}
+.box4 h1{
+    text-align: center;
+    color:midnightblue;
+    letter-spacing: 0.5em;
+}
+.box4 p{
+    text-indent: 2.6em;
+    color:darkgreen;
+}
